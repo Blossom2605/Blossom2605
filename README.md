@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 -->
 
 ## YONGBEOM KIM 🤣
-
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://solved.ac/yule2605)
+
+![Blossom2605 GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossom2605&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yule2605)](https://solved.ac/yule2605/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blossom2605&layout=compact&theme=dark)
 
 ## 📖 Languages
 
@@ -34,10 +38,5 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?logo=unrealengine&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blossom2605&layout=compact&theme=dark)
-
-![Blossom2605 GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossom2605&theme=dark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yule2605)](https://solved.ac/yule2605/)
 <!-- <img src="http://mazandi.herokuapp.com/api?handle(Blossom2605)&theme=Dark"/> -->
 </div>
