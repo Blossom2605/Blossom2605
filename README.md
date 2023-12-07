@@ -4,8 +4,8 @@
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://solved.ac/yule2605)
 
-![Blossom2605 GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossom2605&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yule2605)](https://solved.ac/yule2605/)
+![Blossom2605 GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossom2605&theme=dark)
 
 <img src="http://mazandi.herokuapp.com/api?handle=yule2605&theme=dark"/>
 
