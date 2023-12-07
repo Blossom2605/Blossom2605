@@ -7,8 +7,9 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://
 ![Blossom2605 GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossom2605&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yule2605)](https://solved.ac/yule2605/)
 
-<img src="http://mazandi.herokuapp.com/api?handle=yule2605&theme=dark"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blossom2605&layout=compact&theme=dark)
+
+<img src="http://mazandi.herokuapp.com/api?handle=yule2605&theme=dark"/>
 
 ## 📖 Languages
 
