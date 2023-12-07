@@ -8,8 +8,6 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://
 <img src="http://mazandi.herokuapp.com/api?handle=yule2605&theme=dark"/>
 
 ![Blossom2605 GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossom2605&theme=dark)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blossom2605&layout=compact&theme=dark)
 
 ## 📖 Languages
