@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello%20World!&fontAlign=70&rotate=13&fontAlignY=25&desc=Blossom2605's%20GitHub&descAlign=70.&descAlignY=44)
+## YONGBEOM KIM 🤣
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://solved.ac/yule2605)
