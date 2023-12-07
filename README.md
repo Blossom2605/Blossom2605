@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=#76d7ea&height=120&section=header&text=Hi!\nI'm YONGBEOM KIM!&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=76d7ea&height=120&section=header&text=Hi!\nI'm YONGBEOM KIM!&fontSize=70" />
