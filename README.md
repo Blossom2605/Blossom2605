@@ -31,6 +31,7 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://
   <ul>
     <li>2023 제5회 2023 YNC 메이커톤 대회 아이디어 부문 우수상 수상</li>
     <li>2023 영남이공대학교 공학센터 주관 창의코딩 경진대회 은상 수상</li>
+    <li>2023 영남이공대학교 공학센터 주관 전국 창의코딩 경진대회 입상 수상</li>
   </ul>
   
   <h3>🏃 Activity</h3>
