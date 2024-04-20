@@ -41,12 +41,4 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://
     <li>2023.12 ~ 현재 영남이공대학교 소프트웨어콘텐츠계열 전공동아리 IT's 임원</li>
   </ul>
 
-   <h3>📰 Certificate</h3>
-  <ul>
-    <li>전자계산기 기능사 (2017년 취득)</li>
-    <li>전기캐드 기능사 (2017년 취득)</li>
-    <li>전자기기 기능사 (2018년 취득)</li>
-    <li>전기 기능사 (2018년 취득)</li>
-  </ul>
-
 </div>
