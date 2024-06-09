@@ -3,14 +3,7 @@
 ## YONGBEOM KIM 🤣
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlossom2605&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://solved.ac/yule2605)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yule2605)](https://solved.ac/yule2605/)
-<img src="http://mazandi.herokuapp.com/api?handle=yule2605&theme=dark"/>
-
-<--! ![Blossom2605 GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossom2605&theme=dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blossom2605&layout=compact&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yule2605)](https://solved.ac/yule2605/)  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://solved.ac/yule2605)
 
 ## 📖 Languages
 
