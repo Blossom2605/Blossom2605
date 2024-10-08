@@ -3,21 +3,19 @@
 ## YONGBEOM KIM 🤣
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlossom2605&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yule2605)](https://solved.ac/yule2605/)  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yule2605)](https://solved.ac/yule2605)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yule2605)](https://solved.ac/yule2605/)
 
 ## 📖 Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C%23-239120?logo=Csharp)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity)
 
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## 📖 Study Plan(Languages)
-![C#](https://img.shields.io/badge/C%23-239120?logo=Csharp)
-
 ## 📖 Study Plan(Tools)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?logo=unrealengine&logoColor=white)
 
   <h3>🏆 Prize</h3>
